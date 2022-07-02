@@ -1,0 +1,20 @@
+/* 
+tag input body img section
+id #nombre
+class .divs
+*/
+
+#nombre {
+  font-size: 20px;
+  background-color: azure;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.divs {
+  font-size: 45px;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+}
